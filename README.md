@@ -1,0 +1,1 @@
+# Girilen-Say-ya-Kadar-Olan-Cift-Say-lar-Bulan-Program
